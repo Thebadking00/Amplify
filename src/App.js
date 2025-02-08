@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         Primer Cm  
+         Primer App en AWS  
         </p>
         
       </header>
