@@ -7,9 +7,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         Primer App en AWS  
+         Esta es la rama QA
         </p>
-        
+       
       </header>
     </div>
   );
